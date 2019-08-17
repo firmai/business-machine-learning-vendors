@@ -1,5 +1,5 @@
 # Business Machine Learning Vendors
-##### A directory of the top 1000 business machine learning vendors
+#### A directory of the top 1000 business machine learning vendors
 
 
 ### [Analytics](#Analytics)
