@@ -1,6 +1,10 @@
 # business-machine-learning-vendors
-A directory of the top business machine learning vendors
+A directory of the top 1000 business machine learning vendors
 
+
+Analytics(#customer)
+
+<a name="Analytics"></a>
 ### Analytics 
  
 #### [IBM Watson](http://www.ibm.com/) 
@@ -2046,7 +2050,8 @@ Image recognition and visual analytics
  
  
  </br> 
- 
+
+<a name="Customer"></a>
 ### Customer Service 
  
 #### [Interactions](http://www.interactions.com) 
