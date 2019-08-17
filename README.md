@@ -2,7 +2,17 @@
 A directory of the top 1000 business machine learning vendors
 
 
-Analytics(#customer)
+### [Analytics](#Analytics)
+###[Customer Service](#Customer)
+###[Data](#Data)
+###[Fintech](#Fintech)
+###[Human Resources](#HR)
+###[Information Technology](#IT)
+###[Legal](#Legal)
+###[Marketing](#Marketing)
+###[Sales](#Sales)
+
+-----
 
 <a name="Analytics"></a>
 ### Analytics 
@@ -3090,6 +3100,8 @@ Chatbot
  
  </br> 
  
+ <a name="Data"></a>
+ 
 ### Data 
  
 #### [Informatica](https://www.informatica.com) 
@@ -3525,6 +3537,8 @@ AppDev
  
  
  </br> 
+ 
+<a name="Fintech"></a>
  
 ### Fintech 
  
@@ -5236,6 +5250,8 @@ Insurance (InsurTech)
  
  </br> 
  
+<a name="HR"></a>
+
 ### HR 
  
 #### [Talemetry](https://talemetry.com/) 
@@ -5895,6 +5911,8 @@ Building management
  
  
  </br> 
+ 
+<a name="IT"></a>
  
 ### IT 
  
@@ -7326,6 +7344,8 @@ Smart Security Systems
  
  </br> 
  
+<a name="Legal"></a>
+
 ### Legal 
  
 #### [Luminance](https://www.luminance.com/) 
@@ -7495,7 +7515,8 @@ Legal advisory
  
  
  </br> 
- 
+<a name="Marketing"></a>
+
 ### Marketing 
  
 #### [Relativity6](http://www.relativity6.com) 
@@ -10914,6 +10935,7 @@ Visual search capability
  
  </br> 
  
+<a name="Operations"></a>
 ### Operations 
  
 #### [Siemens](http://www.siemens.co.in/sts) 
@@ -12805,7 +12827,9 @@ Manufacturing Analytics
  
  
  </br> 
- 
+
+<a name="Sales"></a>
+
 ### Sales 
  
 #### [Zero Keyboard](http://zerokeyboard.com/) 
