@@ -14,11 +14,12 @@
 ### [Information Technology](#IT)
 ### [Legal](#leg)
 ### [Marketing](#market)
+### [Operations](#opera)
 ### [Sales](#sal)
 
 -----
 
-<a name="analytics"></a>
+<a name="analy"></a>
 ### Analytics 
  
 #### [IBM Watson](http://www.ibm.com/) 
@@ -2065,7 +2066,7 @@ Image recognition and visual analytics
  
  </br> 
 
-<a name="cust"></a>
+<a name="customer"></a>
 ### Customer Service 
  
 #### [Interactions](http://www.interactions.com) 
