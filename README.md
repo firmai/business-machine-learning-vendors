@@ -6,7 +6,7 @@
 
 -----
 
-### [Analytics](#Analytics)
+### [Analytics](#analytics)
 ### [Customer Service](#Customer)
 ### [Data](#Data)
 ### [Fintech](#Fintech)
@@ -18,7 +18,7 @@
 
 -----
 
-<a name="Analytics"></a>
+<a name="analytics"></a>
 ### Analytics 
  
 #### [IBM Watson](http://www.ibm.com/) 
