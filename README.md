@@ -1,5 +1,5 @@
 # Business Machine Learning Vendors
-#### A directory of the top 1000 business machine learning vendors
+#### A directory of the top 1000 business machine learning vendors. Additional companies can be suggested and updates can be made [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTuItxrnKiv8vGtWXYUP03KH8ChWLHYPorgrBrgA9bLFNhTqVuBINRStq4t-mal9frhd7i6DGc3Jr45/pubhtml#). Get in contact on [LinkedIn](https://www.linkedin.com/company/firmai). 
 
 
 ### [Analytics](#Analytics)
