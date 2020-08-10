@@ -10926,13 +10926,13 @@ Gesture Control
  
  </br> 
  
-#### [Muse.ai](https://muse.ai/) 
+#### [muse.ai](https://muse.ai/) 
  
-Founded: Unknown; Region: United States, California; Employees: 0; References: 0
+Founded: 2015; Region: United States, California; Employees: 5; References: 0
  
-Visual search capability
+Advanced video hosting using Artificial Intelligence for in-video search.
  
-[Twitter](https://www.twitter.com/museinsights), [Website](https://muse.ai/), 
+[Twitter](https://www.twitter.com/video_ai), [Website](https://muse.ai/), 
  
  </br> 
  
