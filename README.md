@@ -14202,3 +14202,13 @@ Founded: 2015; Region: United States, California; Employees: 5; References: 0
 Meeting setup automation
  
 [Twitter](https://twitter.com/staffjoy), [LinkedIn](https://www.linkedin.com/company/6612912), 
+
+#### [Talentpool](http://www.thetalentpool.co.in) 
+ 
+Founded: 2006; Region: Inida, Global; Employees: 500+; References: 0
+ 
+Recruitment Software Provider
+[Linkedin](https://in.linkedin.com/company/talentpool-recruitment-software)
+(https://www.facebook.com/Talentpool-172215272980176/), 
+[Twitter](https://twitter.com/talentpoolrms), [Facebook][Website](https://thetalentpool.co.in/), 
+
